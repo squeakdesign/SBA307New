@@ -30,7 +30,7 @@
     background-size:cover ;
   }
   .box1{
-    background-image: url("../images/book-temp.jpeg");
+    background-image: url("/images/book-temp.jpeg");
     background-position: center;
     background-size:cover ;
     display: flex;
